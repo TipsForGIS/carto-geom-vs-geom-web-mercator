@@ -1,4 +1,4 @@
-# CARTO's geom Vs. geom-web-mercator columns
+# CARTO's geom Vs. geom_web_mercator columns
 
 
 This repository contains for spatial and non-spatial SQL statements I used for a video in my Youtube channel Tips For GIS (https://www.youtube.com/watch?v=wRWgRoCw6vQ). 
